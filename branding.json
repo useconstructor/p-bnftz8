@@ -1,0 +1,978 @@
+{
+  "tone": "professional",
+  "fontBody": "IBM Plex Sans",
+  "logoText": "Filo Azul",
+  "brandbook": {
+    "motif": "El borde de trabajo: una junta diagonal moderada entre superficie de acero y plano azul petróleo, con marcador de cobre que identifica la elección activa. Proviene del filo y del encuentro de materiales del taller; organiza selección, especificación y estado sin cruzar fotografías ni obstaculizar controles.",
+    "pages": [
+      {
+        "id": "brand-page-1",
+        "title": "Brand guidelines",
+        "layout": "cover",
+        "summary": "Propuesta original para una barbería ficticia en Chapinero, Bogotá: precisión de taller, cuidado del ritual y una reserva directa de una silla.",
+        "examples": [
+          {
+            "text": "Filo Azul",
+            "title": "Un corte con carácter."
+          },
+          {
+            "text": "Place the name above the photograph and the headline in a broad upper band. Keep tools and the chair clear of lettering.",
+            "title": "Cover composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-2",
+        "title": "The Brand",
+        "layout": "divider",
+        "summary": "Use a Copper divider with Petroleum Blue type on a Cold White support panel. One diagonal joint introduces the workshop language; avoid decorative cuts elsewhere.",
+        "examples": [
+          {
+            "text": "El filo, la silla y el turno.",
+            "title": "Filo Azul"
+          },
+          {
+            "text": "Keep the section title left-aligned with the same working edge used by service selections.",
+            "title": "Divider rhythm"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-3",
+        "title": "Welcome",
+        "layout": "content",
+        "summary": "A completed public search did not identify a matching brand identity. This guide presents an original identity proposed for this project.",
+        "examples": [
+          {
+            "text": "Barbería ficticia. Precios y ubicación de ejemplo.",
+            "title": "Public-facing notice"
+          },
+          {
+            "text": "The mark, palette system and layouts are project proposals. Visitor7’s photograph is representative, not a photograph of Filo Azul.",
+            "title": "Identity boundary"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-4",
+        "title": "Index",
+        "layout": "content",
+        "summary": "Keep the manual in six consecutive groups. Use page numbers and short labels rather than a miniature preview of every spread.",
+        "examples": [
+          {
+            "text": "01–08 Brand · 09–15 Logo · 16–22 Typography and layouts",
+            "title": "Identity and type"
+          },
+          {
+            "text": "23–25 Colors · 26–29 Visual language · 30–49 Applications and credits",
+            "title": "Color and applications"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-5",
+        "title": "Defining",
+        "layout": "content",
+        "summary": "Build recognition through the chair, the diagonal material joint and a precise selection edge. Describe a fictional workshop concept, never an established business history.",
+        "examples": [
+          {
+            "text": "Filo Azul reúne silla, herramientas y un borde de trabajo en una propuesta de barbería.",
+            "title": "Concept introduction"
+          },
+          {
+            "text": "Chapinero, Bogotá · Ubicación conceptual",
+            "title": "Location wording"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-6",
+        "title": "Vision & Mission",
+        "layout": "content",
+        "summary": "Express design intent rather than inventing corporate commitments. Give discovery and booking equal clarity, with the same visual care on every interior route.",
+        "examples": [
+          {
+            "text": "Conoce el concepto. Explora los servicios. Elige un turno.",
+            "title": "Editorial direction"
+          },
+          {
+            "text": "Show service, date and time before contact fields. Keep the selected option recognizable through review and confirmation.",
+            "title": "Task direction"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-7",
+        "title": "Brand Values",
+        "layout": "content",
+        "summary": "Treat precision, restraint and care as design principles, not claimed business credentials. Make them visible in alignment, honest labels and readable controls.",
+        "examples": [
+          {
+            "text": "One shared edge aligns service name, demo price and selection marker.",
+            "title": "Precision"
+          },
+          {
+            "text": "Use one copper emphasis per task area. Preserve entered details when explaining an error.",
+            "title": "Restraint and care"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-8",
+        "title": "Tone of Voice",
+        "layout": "content",
+        "summary": "Write interface copy in clear Spanish. Use short sentences and concrete verbs; avoid luxury clichés, invented testimonials, urgency and unsupported service promises.",
+        "examples": [
+          {
+            "text": "Elige tu servicio y consulta los turnos disponibles.",
+            "title": "Direct invitation"
+          },
+          {
+            "text": "Ese turno ya no está disponible. Tus datos siguen aquí; elige otro horario.",
+            "title": "Useful correction"
+          },
+          {
+            "text": "Do not write “La mejor barbería de Bogotá” or invent years of experience, staff biographies or satisfied-customer counts.",
+            "title": "Avoid"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-9",
+        "title": "Logo",
+        "layout": "divider",
+        "summary": "Introduce the logo on Brushed Steel with generous empty space. Present the symbol and name as a single visual relationship, without turning the divider into a logo catalogue.",
+        "examples": [
+          {
+            "text": "Filo Azul · Una junta, dos planos, un filo.",
+            "title": "Section copy"
+          },
+          {
+            "text": "Use Petroleum Blue geometry and a Copper joint. Keep the name separate from the symbol artwork.",
+            "title": "Presentation rule"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-10",
+        "title": "Logo overview",
+        "layout": "logo",
+        "summary": "The original symbol joins two petroleum planes around a copper incision of approximately 12°. It represents a working edge, not scissors, a barber pole or an initial inside a box.",
+        "examples": [
+          {
+            "text": "Place the symbol to the left of Filo Azul. Align the name optically with the center of the complete silhouette.",
+            "title": "Master relationship"
+          },
+          {
+            "text": "Use the symbol alone for a favicon or avatar; retain both planes and the copper joint.",
+            "title": "Small-space version"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-11",
+        "title": "Primary logo",
+        "layout": "logo",
+        "summary": "Render Filo Azul in real Sora 600 typography, with natural letterforms and slightly tight spacing. Do not embed lettering into the symbol SVG or cut diagonals into the font.",
+        "examples": [
+          {
+            "text": "Filo Azul",
+            "title": "Primary lockup"
+          },
+          {
+            "text": "In a 48 px symbol canvas, set the name at 28 px and leave 12 px between canvas and name. Use a minimum 24 px symbol canvas in navigation.",
+            "title": "Size relationship"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-12",
+        "title": "Logo Safezone",
+        "layout": "logo",
+        "summary": "Let x equal one quarter of the symbol’s visible width. Keep at least x clear around the complete lockup; measure from artwork and letters, not the SVG canvas.",
+        "examples": [
+          {
+            "text": "For a 40 px visible symbol, reserve at least 10 px outside the lockup before navigation, borders or other content.",
+            "title": "Header spacing"
+          },
+          {
+            "text": "Put the lockup on a quiet support surface rather than using empty space between the chair and tools as its safezone.",
+            "title": "Photographic placement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-13",
+        "title": "Color combinations",
+        "layout": "colors",
+        "summary": "Preserve the symbol’s Petroleum Blue and Copper fills. On dark, copper or photographic backgrounds, add a Cold White support surface large enough to include the safezone.",
+        "examples": [
+          {
+            "text": "Cold White #EFF4F5 supports the original symbol and a Petroleum Blue #153E55 name.",
+            "title": "Light application"
+          },
+          {
+            "text": "On #153E55 or #AF552F, use a #EFF4F5 support panel. Do not recolor individual symbol planes to compensate.",
+            "title": "Colored application"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-14",
+        "title": "Brandmark",
+        "layout": "logo",
+        "summary": "Use the supplied geometric master unchanged. Its horizontal silhouette and open diagonal channels must remain visible; the copper joint is integral, not an optional underline.",
+        "examples": [
+          {
+            "text": "Use a 32 px canvas for compact navigation and 48 px for profile studies. Reserve the 16 px version for browser icons.",
+            "title": "Application sizes"
+          },
+          {
+            "text": "Center the complete three-part silhouette, not just the upper petroleum plane.",
+            "title": "Optical balance"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-15",
+        "title": "Logo misuse",
+        "layout": "logo",
+        "summary": "Never stretch, rotate, outline, bevel or texture the mark. Avoid generic black-and-gold substitutions and keep photographic detail out of its open channels.",
+        "examples": [
+          {
+            "text": "Do not turn the copper joint into a metallic gold gradient or add scissors behind Filo Azul.",
+            "title": "Incorrect treatment"
+          },
+          {
+            "text": "Do not place the symbol across the chair, crop its lower plane or squeeze the name to fit a narrow header.",
+            "title": "Incorrect composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-16",
+        "title": "Typography",
+        "layout": "divider",
+        "summary": "Introduce type with a large Spanish headline and a smaller practical sentence. Use Sora for character and IBM Plex Sans for reading, never a third decorative family.",
+        "examples": [
+          {
+            "text": "Explora los servicios y encuentra tu turno.",
+            "title": "Un corte con carácter."
+          },
+          {
+            "text": "Set the headline in Sora 700 and the supporting line in IBM Plex Sans 400, aligned to one working edge.",
+            "title": "Divider composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-17",
+        "title": "Typography overview",
+        "layout": "type",
+        "summary": "Pair Sora 600–700 headings with IBM Plex Sans 400–600 body and controls. Supplied distributable files cover these weights; local font delivery belongs to the planned application.",
+        "examples": [
+          {
+            "text": "Cada cita ocupa una silla durante 60 minutos.",
+            "title": "Elige tu turno"
+          },
+          {
+            "text": "Keep service names in Sora and explanations, prices, dates and fields in IBM Plex Sans.",
+            "title": "Family roles"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-18",
+        "title": "Primary typeface",
+        "layout": "type",
+        "summary": "Use Sora for short, distinctive headings. Set display text at 40–88 px by viewport, with approximately 1.05 line height; avoid long paragraphs and forced all-caps.",
+        "examples": [
+          {
+            "text": "Una propuesta de taller para descubrir el ritual del corte.",
+            "title": "La silla, el filo y el turno."
+          },
+          {
+            "text": "At 390 px, start at 40 px. Break the cover headline deliberately and never compress letters to preserve a desktop line.",
+            "title": "Headline fit"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-19",
+        "title": "Typography: weights & style",
+        "layout": "type",
+        "summary": "Use Sora 700 for display and 600 for section headings. IBM Plex Sans uses 400 for body, 500 for labels and 600 for actions. Avoid synthetic bold, italics and condensed styling.",
+        "examples": [
+          {
+            "text": "Comprueba el servicio, la fecha, el turno y tus datos antes de guardar.",
+            "title": "Revisa tu reserva"
+          },
+          {
+            "text": "Turno · Contacto · Revisión: IBM Plex Sans 500, exactly 14 px with 20 px line height.",
+            "title": "Exact step style"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-20",
+        "title": "Supporting type",
+        "layout": "type",
+        "summary": "Use IBM Plex Sans at 16–18 px for body and at least 16 px inside fields. Navigation and buttons start at 14 px; credits start at 12 px. Preserve Spanish accents and COP formatting.",
+        "examples": [
+          {
+            "text": "45.000 COP · Precio demo · Turno de 60 minutos",
+            "title": "Corte clásico"
+          },
+          {
+            "text": "Use tabular numerals for 10:00–19:00 and aligned prices. Keep COP attached to its amount without breaking the line.",
+            "title": "Numeric rhythm"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-21",
+        "title": "Hierarchy",
+        "layout": "type",
+        "summary": "Use one page heading, clear section headings and quiet helper text. A task label must outrank decoration; status and error messages must remain readable without relying on color.",
+        "examples": [
+          {
+            "text": "Selecciona una fecha para consultar disponibilidad.",
+            "title": "Elige tu turno"
+          },
+          {
+            "text": "Desktop cover 88/92; mobile cover 40/44; section 28/34; body 16/24; steps 14/20; credits 12/18, in px.",
+            "title": "Suggested scale"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-22",
+        "title": "Layouts",
+        "layout": "applications",
+        "summary": "Use a 12-column desktop, 6-column tablet and 4-column mobile grid. Space on the 4/8/12/16/24/32/48/64 px scale. Keep booking content in normal document flow.",
+        "examples": [
+          {
+            "text": "Primero elige una opción y una fecha. Después completa tus datos.",
+            "title": "Tu servicio. Tu turno."
+          },
+          {
+            "text": "Use 64 px desktop, 32 px tablet and 16 px mobile outer margins. At 390×600, show service, date and next available turn on arrival.",
+            "title": "Responsive working edge"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-23",
+        "title": "Colors",
+        "layout": "divider",
+        "summary": "Use Petroleum Blue as the identity anchor, Cold White as breathing room and Copper as a deliberate signal. Express brushed steel through secondary surfaces, not simulated chrome.",
+        "examples": [
+          {
+            "text": "Azul petróleo. Acero. Un filo de cobre.",
+            "title": "Section copy"
+          },
+          {
+            "text": "Use a Copper field with a Cold White title or support panel. Avoid gradients, gold accents and near-black substitutions.",
+            "title": "Divider treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-24",
+        "title": "Colors overview",
+        "layout": "colors",
+        "summary": "Keep all five supplied hex values unchanged. Assign colors by semantic role, not by service; the same selection and text rules apply throughout the booking journey.",
+        "examples": [
+          {
+            "text": "Cold White #EFF4F5: background. Brushed Steel #D6E0E3: surface. Petroleum Blue #153E55: identity and primary text.",
+            "title": "Base and reading"
+          },
+          {
+            "text": "Working Copper #AF552F: action. Workshop Slate #536770: secondary text. Use Cold White text on Copper buttons, not Petroleum Blue.",
+            "title": "Action and support"
+          },
+          {
+            "text": "Use Petroleum Blue or Workshop Slate text on Cold White and Steel. Avoid small Copper text on Steel; reserve that pairing for non-text markers.",
+            "title": "Contrast pairing"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-25",
+        "title": "Using Tints",
+        "layout": "colors",
+        "summary": "Keep text and controls in solid palette colors. Tints may soften large decorative surfaces only; they must not create new semantic tokens or weaken selected and focus states.",
+        "examples": [
+          {
+            "text": "Use solid Brushed Steel beneath a service family. A subtle Petroleum Blue texture at 4% opacity may sit outside photographs.",
+            "title": "Quiet workshop surface"
+          },
+          {
+            "text": "Keep selected Copper at full opacity. Pair unavailable slots with explicit text and disabled semantics, not a pale tint alone.",
+            "title": "State discipline"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-26",
+        "title": "Graphic Elements",
+        "layout": "divider",
+        "summary": "Use a diagonal joint of approximately 12° at one frame edge or selection marker. Keep content rectangles intact, with 8 px control corners and no diagonal clipping of tools or seats.",
+        "examples": [
+          {
+            "text": "A 4 px copper rail marks Corte y barba; its short diagonal end echoes the symbol without becoming a second logo.",
+            "title": "Selection edge"
+          },
+          {
+            "text": "Cut only a modest outer corner of the photographic frame. The image itself stays rectangular and recognizable.",
+            "title": "Frame treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-27",
+        "title": "Icons",
+        "layout": "content",
+        "summary": "Draw functional icons on a 24 px grid with consistent 1.75 px strokes. Use Petroleum Blue by default, pair unfamiliar symbols with labels and reserve the brandmark for identity.",
+        "examples": [
+          {
+            "text": "Fecha — pair the calendar icon with its visible label and a touch target of at least 44×44 px.",
+            "title": "Calendar control"
+          },
+          {
+            "text": "Use a clockwise arrow for Recargar and a simple chevron for Abrir detalle. Never make a scissors icon stand for cancellation.",
+            "title": "Navigation actions"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-28",
+        "title": "Photography",
+        "layout": "applications",
+        "summary": "Use the supplied documentary source with natural color and crisp detail. Preserve the original separately from crops. Do not imply that the photographed shop is Filo Azul.",
+        "examples": [
+          {
+            "text": "Fotografía representativa, no del local ficticio. Visitor7 · CC BY-SA 3.0 · Imagen recortada.",
+            "title": "Visible photo credit"
+          },
+          {
+            "text": "Keep the chair complete enough to read as the focal object. Place the CTA on its lower frame edge, never across the seat.",
+            "title": "Framing rule"
+          },
+          {
+            "text": "Use a distinct crop only if recognizable tools retain enough detail. Otherwise use a separately licensed source, not an invented view.",
+            "title": "Tools scene"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-29",
+        "title": "Moodboard",
+        "layout": "applications",
+        "summary": "Combine documentary chair photography, quiet steel surfaces, geometric type and one copper incision. The chosen direction is editorial workshop, not luxury lounge or software dashboard.",
+        "examples": [
+          {
+            "text": "La silla, el filo y el turno: broad headline above a dominant photograph, followed by a grounded action band.",
+            "title": "Chosen composition"
+          },
+          {
+            "text": "Keep authentic materials and open margins. Exclude black-and-gold styling, neon barber poles, stock haircut results and glossy metal effects.",
+            "title": "Keep / exclude"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-30",
+        "title": "Applications",
+        "layout": "divider",
+        "summary": "Treat the following applications as design studies. Carry the working edge, typography and palette into every format; adapt hierarchy to the task rather than shrinking the homepage.",
+        "examples": [
+          {
+            "text": "Explora el concepto, los servicios y el recorrido de reserva.",
+            "title": "Conoce Filo Azul"
+          },
+          {
+            "text": "Use one dominant message, one copper emphasis and a quiet identity zone. Keep functional labels in Spanish.",
+            "title": "Shared composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-31",
+        "title": "Social media icons",
+        "layout": "logo",
+        "summary": "Design study: center the unchanged symbol on Cold White. Keep its clearspace inside circular avatar crops; do not squeeze the full name into small profile icons.",
+        "examples": [
+          {
+            "text": "Un corte con carácter.",
+            "title": "Filo Azul"
+          },
+          {
+            "text": "In a 48 px square, use a centered 32 px symbol canvas. Keep the circular crop clear of every colored plane.",
+            "title": "Avatar crop"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-32",
+        "title": "Social media profiles",
+        "layout": "applications",
+        "summary": "Design study: pair the symbol avatar with the exact name and a concise concept description. Do not invent handles, follower counts, contact channels or verified badges.",
+        "examples": [
+          {
+            "text": "Barbería ficticia en Chapinero, Bogotá. Servicios y reservas de demostración.",
+            "title": "Filo Azul"
+          },
+          {
+            "text": "Use the chair photograph with an adjacent headline band. Keep its credit accessible rather than hiding it in the avatar.",
+            "title": "Profile cover"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-33",
+        "title": "Instagram posts",
+        "layout": "applications",
+        "summary": "Design study: use a 4:5 editorial canvas with 48 px internal margins at 1080 px width. Alternate concept and service posts; keep prices labeled demo and never fabricate results.",
+        "examples": [
+          {
+            "text": "La silla y las herramientas abren el concepto de Filo Azul.",
+            "title": "Un corte con carácter."
+          },
+          {
+            "text": "65.000 COP · Precio demo. Conoce los cuatro servicios en la web.",
+            "title": "Corte y barba"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-34",
+        "title": "Posters",
+        "layout": "applications",
+        "summary": "Design study: use a large Sora headline above a documentary image, with information on a separate lower band. Give the name and photo credit stable positions; omit invented addresses.",
+        "examples": [
+          {
+            "text": "Filo Azul · Chapinero, Bogotá · Ubicación conceptual",
+            "title": "El filo tiene su lugar."
+          },
+          {
+            "text": "Lunes a sábado, 10:00–19:00. Último inicio: 18:00. Domingo cerrado.",
+            "title": "Horario de demostración"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-35",
+        "title": "T shirts and totes",
+        "layout": "applications",
+        "summary": "Design study: use a Cold White textile with the two-color symbol and a separate typographic name. Keep artwork flat; do not imply merchandise availability or add purchase calls to action.",
+        "examples": [
+          {
+            "text": "Un corte con carácter.",
+            "title": "Filo Azul"
+          },
+          {
+            "text": "Use a 70 mm-wide chest lockup or a 180 mm-wide tote composition. Preserve symbol proportions and at least one safezone around the print.",
+            "title": "Print placement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-36",
+        "title": "Tool sleeves",
+        "layout": "applications",
+        "summary": "Design study adapting packaging to the workshop: use a paper tool sleeve with a steel field and petroleum label. Treat it as a visual mockup, not a product or hygiene certification.",
+        "examples": [
+          {
+            "text": "Silla, herramientas y atención al contorno.",
+            "title": "El ritual del corte"
+          },
+          {
+            "text": "Keep the symbol on the front and a single copper joint near the fold. Do not add product contents, barcodes or care claims.",
+            "title": "Sleeve construction"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-37",
+        "title": "Conceptual location",
+        "layout": "applications",
+        "summary": "Design study adapting arrival information: show the neighborhood and demo schedule in a calm information panel. Do not add a precise map, directions or a physical check-in action.",
+        "examples": [
+          {
+            "text": "Ubicación conceptual de una barbería ficticia. No corresponde a una dirección de atención.",
+            "title": "Chapinero, Bogotá"
+          },
+          {
+            "text": "Lunes a sábado: 10:00–19:00. Turnos de 60 minutos; último inicio a las 18:00. Hora de Bogotá.",
+            "title": "Horario demo"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-38",
+        "title": "Booking controls",
+        "layout": "applications",
+        "summary": "Design study: use Copper primary buttons, 44 px minimum targets and visible labels. Selection moves the marker in 180 ms without moving focus; reduced motion makes the change immediate.",
+        "examples": [
+          {
+            "text": "Elige primero un servicio, una fecha y un turno disponible.",
+            "title": "Continuar a contacto"
+          },
+          {
+            "text": "Show selected text and a copper rail together. Use a Petroleum Blue focus ring with a Cold White separation gap; never rely on hover alone.",
+            "title": "Selection and focus"
+          },
+          {
+            "text": "Guardando reserva… — keep the button in normal flow and announce the state briefly. Do not display confirmation while saving.",
+            "title": "Pending action"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-39",
+        "title": "Reservation confirmation",
+        "layout": "applications",
+        "summary": "Design study adapting the receipt: show one authoritative summary after server-confirmed saving. Give status and code priority, followed by service, demo price, time and exact saved details.",
+        "examples": [
+          {
+            "text": "El registro se ha guardado. No constituye una cita real.",
+            "title": "Reserva de demostración guardada"
+          },
+          {
+            "text": "Consulta el detalle o vuelve a Mis reservas.",
+            "title": "Ver mi reserva"
+          },
+          {
+            "text": "On /confirmacion, use the server-returned code and status. Never substitute a sample code, payment receipt or optimistic success message.",
+            "title": "Result layout"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-40",
+        "title": "Ritual card",
+        "layout": "applications",
+        "summary": "Design study replacing a rewards card: create an editorial keepsake about the cutting ritual. Use the familiar card format without points, stamps, membership or redemption mechanics.",
+        "examples": [
+          {
+            "text": "La silla. Las herramientas. El contorno.",
+            "title": "El ritual del corte"
+          },
+          {
+            "text": "Place the symbol on the front and three short editorial lines on the reverse. Do not draw a loyalty stamp grid.",
+            "title": "Card layout"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-41",
+        "title": "Barbershop sign",
+        "layout": "applications",
+        "summary": "Design study: place the primary lockup on a matte Cold White sign with a Petroleum Blue frame. Use the copper joint sparingly; do not simulate a real installed storefront.",
+        "examples": [
+          {
+            "text": "Un corte con carácter.",
+            "title": "Filo Azul"
+          },
+          {
+            "text": "Let the name dominate at viewing distance. Keep the symbol’s safezone intact and omit address numbers, opening claims and invented neighboring shops.",
+            "title": "Sign proportions"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-42",
+        "title": "Booking website",
+        "layout": "applications",
+        "summary": "Design study: preserve editorial identity across /, /servicios, /reservar, /revision, /confirmacion, /mis-reservas and /reserva. Demo bookings use planned private Turso storage, not local-only simulation.",
+        "examples": [
+          {
+            "text": "Descubre el concepto o continúa hacia tu turno.",
+            "title": "Inicio · Servicios · Reservar · Mis reservas"
+          },
+          {
+            "text": "Corte clásico: 45.000 COP · Corte y barba: 65.000 COP · Arreglo de barba: 30.000 COP · Afeitado: 40.000 COP.",
+            "title": "Servicios y precios demo"
+          },
+          {
+            "text": "Use one shared chair schedule across all services. Carry the chosen service into /reservar; review holds no slot. Offer explicit saving only after review.",
+            "title": "Turno · Contacto · Revisión"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-43",
+        "title": "Favicon",
+        "layout": "logo",
+        "summary": "Design study: derive browser and application icons from the same symbol master. Use a Cold White canvas; preserve the copper incision and do not replace the mark with FA lettering.",
+        "examples": [
+          {
+            "text": "Servicios y reservas de demostración.",
+            "title": "Filo Azul — Un corte con carácter."
+          },
+          {
+            "text": "At 16 and 32 px, retain the complete silhouette without added strokes. Use the same geometry inside larger touch-icon canvases.",
+            "title": "Small icon treatment"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-44",
+        "title": "Stationery",
+        "layout": "applications",
+        "summary": "Design study: use an A4 sheet with a small upper-left lockup, 24 mm margins and a single copper rule. Keep body text practical; omit invented legal, contact or commercial details.",
+        "examples": [
+          {
+            "text": "Notas del concepto",
+            "title": "Filo Azul"
+          },
+          {
+            "text": "Use Sora for the document heading and IBM Plex Sans for paragraphs. Place the conceptual location in a quiet footer, not a postal-address block.",
+            "title": "Document composition"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-45",
+        "title": "Business cards",
+        "layout": "applications",
+        "summary": "Design study: adapt the business card into a concept card without invented people, telephone numbers or domains. Use an 85×55 mm format with at least 5 mm internal margins.",
+        "examples": [
+          {
+            "text": "Filo Azul · Chapinero, Bogotá · Ubicación conceptual",
+            "title": "Un corte con carácter."
+          },
+          {
+            "text": "Keep the front to symbol and name. Put the concept line and fictional-business notice on the reverse; omit unverified QR destinations.",
+            "title": "Two-sided hierarchy"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-46",
+        "title": "Gift-format concept card",
+        "layout": "applications",
+        "summary": "Design study adapting the gift-card format: make a non-redeemable editorial card. Preserve the generous presentation while excluding monetary value, codes, balances and purchase actions.",
+        "examples": [
+          {
+            "text": "Filo Azul · Pieza conceptual sin valor comercial.",
+            "title": "Un momento de taller."
+          },
+          {
+            "text": "Use a Petroleum Blue outer sleeve and Cold White insert. Keep Copper on one edge; do not mimic a stored-value or prepaid-service card.",
+            "title": "Presentation rule"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-47",
+        "title": "Workshop seal",
+        "layout": "applications",
+        "summary": "Design study adapting a packaging seal: use the original symbol on a Cold White square label. It is an identity closure, never evidence of sterilization, certification or product authenticity.",
+        "examples": [
+          {
+            "text": "El borde de trabajo.",
+            "title": "Filo Azul"
+          },
+          {
+            "text": "Use a 32 mm label with the complete mark and safezone. Place it beside the sleeve fold so opening does not split the symbol.",
+            "title": "Seal placement"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-48",
+        "title": "Visitor help",
+        "layout": "applications",
+        "summary": "Design study: provide inline help and private reservation actions, not messaging or staff support. Keep errors beside their fields, preserve entries and confirm cancellation before changing state.",
+        "examples": [
+          {
+            "text": "Explora los servicios para crear una reserva de demostración.",
+            "title": "Todavía no tienes reservas"
+          },
+          {
+            "text": "Si confirmas, se liberará el turno. Volver · Confirmar cancelación",
+            "title": "¿Cancelar esta reserva?"
+          },
+          {
+            "text": "Vuelve a intentarlo. Recargar",
+            "title": "No pudimos consultar tus reservas"
+          }
+        ]
+      },
+      {
+        "id": "brand-page-49",
+        "title": "Thank you",
+        "layout": "cover",
+        "summary": "A completed public search did not identify a matching brand identity. This guide presents an original identity proposed for this project.",
+        "examples": [
+          {
+            "text": "Un corte con carácter.",
+            "title": "Gracias por conocer Filo Azul."
+          },
+          {
+            "text": "Visitor7, Winn’s Barber Shop: https://commons.wikimedia.org/wiki/File:Winn%27s_Barber_Shop.jpg · CC BY-SA 3.0. Representative image; credit crops as modified.",
+            "title": "Photograph source"
+          },
+          {
+            "text": "Photo license: https://creativecommons.org/licenses/by-sa/3.0/. Type: Sora and IBM Plex Sans, supplied Google Fonts files. Keep attribution and ShareAlike for photo derivatives.",
+            "title": "License and type sources"
+          }
+        ]
+      }
+    ],
+    "voice": "Español claro, cercano y preciso. Frases breves con vocabulario de corte, contorno, silla y turno; sin grandilocuencia, testimonios ni credenciales inventadas. Un aviso discreto por página identifica la demostración; la confirmación explica que el registro no constituye una cita real.",
+    "colors": [
+      {
+        "hex": "#EFF4F5",
+        "name": "Cold White",
+        "role": "background"
+      },
+      {
+        "hex": "#D6E0E3",
+        "name": "Brushed Steel",
+        "role": "surface"
+      },
+      {
+        "hex": "#AF552F",
+        "name": "Working Copper",
+        "role": "accent"
+      },
+      {
+        "hex": "#153E55",
+        "name": "Petroleum Blue",
+        "role": "text"
+      },
+      {
+        "hex": "#536770",
+        "name": "Workshop Slate",
+        "role": "muted"
+      }
+    ],
+    "origin": "proposed",
+    "markSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 160\"><path fill=\"#153E55\" d=\"M24 32H136V60L24 84Z\"/><path fill=\"#AF552F\" d=\"M24 94L136 70V80L24 104Z\"/><path fill=\"#153E55\" d=\"M24 114L136 90V128H24Z\"/></svg>",
+    "sources": [
+      "https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&display=swap",
+      "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+    ],
+    "version": 1,
+    "fontFaces": [
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-BNFTZ8/brand/fonts/1b547e90e4c49aa12e9a35ca8acc91732e188aa9fdbe08d2299ea4d4cae72145.ttf",
+        "family": "Sora",
+        "sha256": "1b547e90e4c49aa12e9a35ca8acc91732e188aa9fdbe08d2299ea4d4cae72145",
+        "weight": "400",
+        "originalUrl": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdSnn-K.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-BNFTZ8/brand/fonts/86199efe0823277aa825a8ad673010df2efa7b3a5e8e14cda200d984491256ea.ttf",
+        "family": "Sora",
+        "sha256": "86199efe0823277aa825a8ad673010df2efa7b3a5e8e14cda200d984491256ea",
+        "weight": "500",
+        "originalUrl": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdgnn-K.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-BNFTZ8/brand/fonts/4e79171a1720d04b72eb68bd7604f85888c31c05bb6b432147d4524e9439af30.ttf",
+        "family": "Sora",
+        "sha256": "4e79171a1720d04b72eb68bd7604f85888c31c05bb6b432147d4524e9439af30",
+        "weight": "600",
+        "originalUrl": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSeMmX-K.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-BNFTZ8/brand/fonts/a50f5d254fc0fb83125fceffb72a95d036b8ce964a77fb8cc42ecb9ce16b0427.ttf",
+        "family": "Sora",
+        "sha256": "a50f5d254fc0fb83125fceffb72a95d036b8ce964a77fb8cc42ecb9ce16b0427",
+        "weight": "700",
+        "originalUrl": "https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSe1mX-K.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-BNFTZ8/brand/fonts/6dbe082463cf749cfa057d45c3048c90f4df031496498e5b5bdfd0b6babb9d16.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "6dbe082463cf749cfa057d45c3048c90f4df031496498e5b5bdfd0b6babb9d16",
+        "weight": "400",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD6llzAA.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-BNFTZ8/brand/fonts/6f7a8c4219e021ff7c9131bc5f1f7af97bcd1436a59578d444a8cb92e9791742.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "6f7a8c4219e021ff7c9131bc5f1f7af97bcd1436a59578d444a8cb92e9791742",
+        "weight": "500",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD2FlzAA.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-BNFTZ8/brand/fonts/5311c66fd6d04ae45671236f7eae667b671c06c1dc7e88d52c206e5fadd0fb21.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "5311c66fd6d04ae45671236f7eae667b671c06c1dc7e88d52c206e5fadd0fb21",
+        "weight": "600",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDNF5zAA.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      },
+      {
+        "url": "https://odifhpxpphpkaucgsthd.supabase.co/storage/v1/object/public/screenshots/projects/P-BNFTZ8/brand/fonts/e129a20e8ff7c907ffd07124b573e88c323b7b18afc934d4aa539a3e0f2fe100.ttf",
+        "family": "IBM Plex Sans",
+        "sha256": "e129a20e8ff7c907ffd07124b573e88c323b7b18afc934d4aa539a3e0f2fe100",
+        "weight": "700",
+        "originalUrl": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDDV5zAA.ttf",
+        "availableWeights": [
+          "400",
+          "500",
+          "600",
+          "700"
+        ]
+      }
+    ],
+    "positioning": "Propuesta original para una barbería ficticia en Chapinero, Bogotá: precisión de taller, cuidado del ritual y una reserva directa de una silla. Servicios, precios y ubicación conceptual son de demostración; no representa un establecimiento en funcionamiento.",
+    "researchStatus": "not_found",
+    "tokenSemanticsVersion": 1
+  },
+  "textColor": "#153E55",
+  "accentColor": "#AF552F",
+  "fontHeading": "Sora",
+  "borderRadius": "0.5rem",
+  "logoImageUrl": null,
+  "primaryColor": "#AF552F",
+  "secondaryColor": "#D6E0E3",
+  "backgroundColor": "#EFF4F5"
+}

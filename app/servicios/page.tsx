@@ -1,0 +1,5 @@
+import type { Metadata } from 'next';
+import { BrandPage } from '@/components/brand';
+import { ServiceCatalogue, FiloPhoto, PhotoCredits, BookingInvitation } from '@/components/filo/public';
+export const metadata: Metadata = { title: 'Servicios' };
+export default function ServicesPage() { return <BrandPage title="Cuatro maneras de definir tu estilo." subtitle="Servicios y precios de demostración. Chapinero, Bogotá: una ubicación conceptual."><div className="grid items-start gap-6 border-t border-brand-muted/40 pt-5 md:grid-cols-[1fr_1.1fr] md:gap-10"><div><h2 className="font-heading text-2xl sm:text-3xl">Un turno. Una silla.</h2><p className="mt-3 max-w-prose">Cada servicio dura 60 minutos y ocupa la misma silla. Elige lo que quieres explorar; la disponibilidad se comprueba al escoger tu fecha.</p><p className="mt-3 text-sm text-brand-muted">Una persona por reserva. No se realizan pagos ni se envían mensajes.</p></div><FiloPhoto variant="ritual"/></div><div className="my-8"><ServiceCatalogue/></div><BookingInvitation/><PhotoCredits className="my-8"/></BrandPage>; }

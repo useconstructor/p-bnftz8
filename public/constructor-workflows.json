@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "workflows": [
+    {
+      "id": "booking-catalog",
+      "name": "Ver catálogo",
+      "description": "Consulta el catálogo público actual de opciones disponibles.",
+      "endpoint": "/api/catalogo",
+      "method": "GET",
+      "input": {}
+    }
+  ]
+}
